@@ -1,0 +1,143 @@
+[
+    {
+      "id": 0,
+      "category": "phones",
+      "img": "images/img/product/product1.jpg",
+      "img_hover": "images/img/product/product-1.jpg",
+      "name": "Samsung Galaxy A05 LTE, Android Smartphone, Dual SIM",
+      "price": 185,
+      "old_price": 225
+    },
+    {
+      "id": 1,
+      "category": "phones",
+      "img": "images/img/product/product2.jpg",
+      "img_hover": "images/img/product/product-2.jpg",
+      "name": "Samsung Galaxy A55 5G, Android Smartphone, Dual SIM",
+      "price": 100,
+      "old_price": 120
+    },
+    {
+      "id": 2,
+      "category": "tv",
+      "img": "images/img/product/product3.jpg",
+      "img_hover": "images/img/product/product-3.jpg",
+      "name": "LANGRIA TV Stand with 2 Doors, 2-Tier Open Shelf and Ample Flat Surface",
+      "price": 140,
+      "old_price": 200
+    },
+    {
+      "id": 3,
+      "category": "headphones",
+      "img": "images/img/product/product4.jpg",
+      "img_hover": "images/img/product/product-4.jpg",
+      "name": "Sennheiser Consumer Audio HD 569 Closed Back Headphone, Wired",
+      "price": 90,
+      "old_price": 110
+    },
+    {
+      "id": 4,
+      "category": "headphones",
+      "img": "images/img/product/product5.jpg",
+      "img_hover": "images/img/product/product-5.jpg",
+      "name": "JBL Tune 110 Wired Earphone - Black earphones Airpods earbuds headphones",
+      "price": 350,
+      "old_price": 420
+
+    },
+    {
+      "id": 5,
+      "category": "phones",
+      "img": "images/img/product/product6.jpg",
+      "img_hover": "images/img/product/product-6.jpg",
+      "name": "Redmi A3 Smartphone with 3GB RAM, 64GB Storage, 6.71-Inch HD+ 90Hz Display, 5000mAh Battery, Dual SIM",
+      "price": 115,
+      "old_price": 235
+    },
+    {
+      "id": 6,
+      "category": "phones",
+      "img": "images/img/product/product7.jpg",
+      "img_hover": "images/img/product/product-7.jpg",
+      "name": "256 GB Realme C53 dual SIM mobile phone with 256 GB ROM and 8 GB RAM 4G",
+      "price": 225,
+      "old_price": 280
+    },
+    {
+      "id": 7,
+      "category": "watches",
+      "img": "images/img/product/product8.jpg",
+      "img_hover": "images/img/product/product-8.jpg",
+      "name": "Original NF9202T-S-W-GN Naviforce Wrist Watch For Men ",
+      "price": 150,
+      "old_price": 200
+    },
+    {
+      "id": 8,
+      "category": "phones",
+      "img": "images/img/product/product-1.jpg",
+      "img_hover": "images/img/product/product1.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 180
+    },
+    {
+      "id": 9,
+      "category": "phones",
+      "img": "images/img/product/product-2.jpg",
+      "img_hover": "images/img/product/product2.jpg",
+      "name": "amsung Galaxy A05 LTE, Android Smartphone, Dual SIM Mobile Phone, 4GB RAM",
+      "price": 300
+    },
+    {
+      "id": 10,
+      "category": "tv",
+      "img": "images/img/product/product-3.jpg",
+      "img_hover": "images/img/product/product3.jpg",
+      "name": "Samsung 22-Inch LED Monitor with IPS Panel and Borderless Design",
+      "price": 250
+    },
+    {
+      "id": 11,
+      "category": "headphones",
+      "img": "images/img/product/product-4.jpg",
+      "img_hover": "images/img/product/product4.jpg",
+      "name": "Microsoft Modern Wireless Headset,Comfortable Stereo, Noise-Cancelling, Up to 50H Battery Life USB-A dongle",
+      "price": 120
+    },
+    {
+      "id": 12,
+      "category": "headphones",
+      "img": "images/img/product/product-5.jpg",
+      "img_hover": "images/img/product/product5.jpg",
+      "name": "Xiaomi Mi In-Ear Earphones Basic with High-Fidelity Sound, Built-in Microphone, and Comfortable Silicone Ear",
+      "price": 90
+    },
+    {
+      "id": 13,
+      "category": "phones",
+      "img": "images/img/product/product-6.jpg",
+      "img_hover": "images/img/product/product6.jpg",
+      "name": "Redmi A3 Smartphone with 3GB RAM, 64GB Storage, 6.71-Inch HD+ 90Hz Display, 5000mAh Battery, Dual SIM",
+      "price": 129
+    },
+    {
+      "id": 14,
+      "category": "phones",
+      "img": "images/img/product/product-7.jpg",
+      "img_hover": "images/img/product/product7.jpg",
+      "name": "OPPO A78 256GB 8GB Smart Phone - Long Lasting battery Life",
+      "price": 180
+    },
+    {
+      "id": 15,
+      "category": "watches",
+      "img": "images/img/product/product-8.jpg",
+      "img_hover": "images/img/product/product8.jpg",
+      "name": "Mtp-1374l-1avdf casio enticer analog dial watch",
+      "price": 60
+    }
+
+
+
+
+  ]

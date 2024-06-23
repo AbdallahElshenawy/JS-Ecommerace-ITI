@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    
+</head>
+<body>
+    <header>
+        <div class="container navbar">
+            <a href="#" class="logo"><img src="images/img/logo-black.png"></a>
+            <form action="" class="search">
+                <input type="search" placeholder="search for product">
+                <button type="submit">search</button>
+            </form>
+            <div class="cart_header">
+                <div onclick="open_cart()"class="icon_cart">
+                    <i class="fa-solid fa-bag-shopping"></i>
+                    <span class="count_item">0</span>
+                </div>
+                <div class="total_price">
+                    <p>My cart:</p>
+                    <p class="price_carthead">0$</p>
+                </div>
+            </div>
+           
+        </div>
+        <nav>
+            <div class="links container">
+                <ul>
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="AllProducts.html">Products</a></li>
+                    <li><a href="#cart">about us</a></li>
+                    <li><a href="#profile">contact us</a></li>
+                </ul>
+                <div class=" name logout">
+                    <a href="#profile" id="profileLink"></a>
+                    <button type="submit" id="logoutButton" class="logout-button">Logout</button>  
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="cart ">
+        <div class="topcart">
+            <h3>My Cart <span class="count_item_cart">(0 items in cart)</span></h3>
+            <span onclick="close_cart()" class="closecart"><i class="fa-regular fa-circle-xmark"></i></span>
+        </div>
+        <div class="items_in_cart">
+        </div>
+        <div class="bottomcart">
+            <div class="total">
+                <p>Cart Subtotal</p>
+                <p class="price_cart_total">0$</p>
+            </div>
+            <div class="buttoncart">
+                <a href="checkout.html" class="btn-cart">Proceed to Checkout</a>
+            </div>
+        </div>
+    </div>
+    <div class="top_page">
+        <div class="container">
+            <h1>Experience The Future Of Technology With US</h1>
+            <p>Find any thing you need. Our topico store offers a wide range of devices to fit your needs</p>
+        </div>
+    </div>
+    <section class="all_products">
+        <div class="container">
+            
+            <div class="filter">
+                <h2>filter</h2>
+                <div class="filter_item">
+                    <h4>categorie</h4>
+                    <div class="content">
+                        <div class="item">
+                            <span>phones</span>
+                            <input type="checkbox" data-category="phones">
+                        </div>
+                     
+                        <div class="item">
+                            <span>tv</span>
+                            <input type="checkbox" data-category="tv">
+                        </div>
+                        <div class="item">
+                            <span>headphones</span>
+                            <input type="checkbox" data-category="headphones">
+                        </div>
+                        <div class="item">
+                            <span>watches</span>
+                            <input type="checkbox" data-category="watches">
+                        </div>
+                    </div>
+                </div>
+
+                
+                
+
+            </div>
+
+            <div id="products_dev" class="products_dev">
+
+            </div>
+        </div>
+       
+    </section>
+    
+    <div class="back_to_top">
+        <p>back to top</p>
+    </div>
+    <footer>
+        <div class="container">
+            <div class="big_row">
+                <img src="images/img/logo-white.png">
+                <div class="hotline">
+                    <i class="fa-solid fa-headset"></i>
+                    <div class="text">
+                        <h5>Hotline free 24/7</h5>
+                        <h6>(+20)01026305410</h6>
+                    </div>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, tempore distinctio. Nam accusamus delectus numquam distinct.</p>
+            </div>
+            <div class="row">
+                <h4>FAQS & Help</h4>
+                <div class="links">
+                    <a href="#">F.A.Q.S</a>
+                    <a href="#">Order Tracking</a>
+                    <a href="#">Contacts</a>
+                    <a href="#">Events</a>
+                    <a href="#">Help center</a>
+                </div>
+            </div>
+            <div class="row">
+                <h4>Shipping & Delivery</h4>
+                <div class="links">
+                    <a href="#">Delviary Info</a>
+                    <a href="#">Discount</a>
+                    <a href="#">Payment & Shipping</a>
+                    <a href="#">Estimated Delivary Time</a>
+                    <a href="#">Shipping Guide</a>
+                </div>
+            </div>
+            <div class="row">
+                <h4>Information</h4>
+                <div class="links">
+                    <a href="#">Popular</a>
+                    <a href="#">OOur Services</a>
+                    <a href="#">Your Account</a>
+                    <a href="#">Privacy & Policy</a>
+                    <a href="#">Terms & Condation</a>
+                </div>
+            </div>
+        </div>
+        <div class="bottom_footer">
+            <div class="container">
+                <p>copy right &copy;<span>Topico.</span>all rights reserved</p>
+                <div class="payment_img">
+                    <img src="images/img/payment-1.png">
+                    <img src="images/img/payment-2.png">
+                    <img src="images/img/payment-3.png">
+                    <img src="images/img/payment-4.png">
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+
+<script src="login.js"></script>
+<script src="home.js"></script>
+<script src="all_products.js"></script>
+<script src="items-home.js"></script>
+
+</body>
+</html>
